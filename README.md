@@ -52,24 +52,24 @@ node index.js --code (jika ingin menggunakan otp atau 1 hp)
 `./config.json`
 ```ts
 {
-  "ownerNumber": "6281575886399@s.whatsapp.net",
-  "pairingNumber": "masukin nomer yang ingin dijadikan bot",
-  "ownerName": "rc",
-  "botName": "Yoshino Bot",
+  "ownerNumber": "6283141083033@s.whatsapp.net",
+  "pairingNumber": "083141083033",
+  "ownerName": "panji",
+  "botName": "Panji bot",
   "packname": "follow",
-  "author": "@riycoders",
+  "author": "@panji",
   "pathimg": "./media/yoshino.jpg",
   "apikey": {
     "xcode": "ambil apikey disini : https://api.xcodeteam.xyz"
   },
   "hmm": {
-    "yt": "https://youtube.com/@riycoders",
-    "ig": "https://instagram.com/riycoders",
+    "yt": "https://youtube.com/@panjisubakti2",
+    "ig": "https://instagram.com/panjisubakti2",
     "linkmenu": "https://chat.whatsapp.com/KShSydBXuPBIx0eeWgl7gY"
   },
   "donasi": {
-	"dana": "081575886399",
-	"gopay": "081575886399"
+	"dana": "083141083033",
+	"pulsa": "083141083033"
   },
   "gamewaktu": 90,
   "limitCount": 25,
